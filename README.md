@@ -22,6 +22,6 @@
 
 ## My GitHub Stats :bar_chart:
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lucasloch&count_private=true&theme=dracula&layout=compact&showicons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasloch&theme=dracula&layout=compact&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasloch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasloch&layout=compact&langs_count=7&theme=dracula"/>
 </div>
